@@ -1,5 +1,8 @@
 package it.unibo.oop.lab.nesting2;
 
+
+
+
 /**
  * 
  * Represent the dual of an Iterator: accept elements in the same sequence as
